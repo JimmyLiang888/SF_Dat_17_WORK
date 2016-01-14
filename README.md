@@ -6,4 +6,4 @@ As a data science professional, I aspire to be in a role that will allow me to a
 
 I presented “Analyzing the Purchasing Power of Currencies” as my project deliverable for General Assembly Data Science. It can be found at the following GitHub link.
 
-**GitHub:**https://github.com/JimmyLiang888/SF_Dat_17_WORK/tree/master/DS_Project
+**GitHub:** https://github.com/JimmyLiang888/SF_Dat_17_WORK/tree/master/DS_Project
