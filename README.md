@@ -14,7 +14,7 @@ I presented “Analyzing the Purchasing Power of Currencies” as my project del
 
 ## Question or Feedback?
 
-Contact Jimmy Liang at Jimmy.Liang888@gmail.com. Thank you. :-)
+Contact Jimmy Liang at Jimmy.Liang888@gmail.com
 
 ## Copyright
 
