@@ -1,8 +1,13 @@
 #GA Data Science Work
 
-Hello!
+**Currency Purchase Power**
 
-As a data science professional, I aspire to be in a role that will allow me to apply my technical and analytical expertise to bring insights to complex problems through data analytics and implementation of analytic tools and processes.
+I want to track the purchase power of different currencies to determine whether a given currency is gaining or losing value.
+  USD, Euro, British Pound, Canadian Dollar, Japanese Yen, Swiss Franc
+
+I plan to use two data sources or more to compare and predict different currencies that are increasing or decreasing in relation to each other. 
+
+This topic interests me because I am curious about how we can leverage the purchase power of the currency to our advantage.
 
 I presented “Analyzing the Purchasing Power of Currencies” as my project deliverable for General Assembly Data Science. It can be found at the following GitHub link.
 
