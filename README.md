@@ -3,9 +3,8 @@
 **Currency Purchase Power**
 
 I want to track the purchase power of different currencies to determine whether a given currency is gaining or losing value.
-  USD, Euro, British Pound, Canadian Dollar, Japanese Yen, Swiss Franc
 
-I plan to use two data sources or more to compare and predict different currencies that are increasing or decreasing in relation to each other. 
+Currency: USD, Euro, British Pound, Canadian Dollar, Swiss Franc
 
 This topic interests me because I am curious about how we can leverage the purchase power of the currency to our advantage.
 
